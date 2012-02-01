@@ -1,0 +1,19 @@
+C:\Users\dave.wolfe.S-VILLE-ECAD\Documents\ProjectsDev\CG\CG\Center of Gravity\bin\Debug\Center of Gravity.dll
+C:\Users\dave.wolfe.S-VILLE-ECAD\Documents\ProjectsDev\CG\CG\Center of Gravity\bin\Debug\Center of Gravity.pdb
+C:\Users\dave.wolfe.S-VILLE-ECAD\Documents\ProjectsDev\CG\CG\Center of Gravity\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.dll
+C:\Users\dave.wolfe.S-VILLE-ECAD\Documents\ProjectsDev\CG\CG\Center of Gravity\bin\Debug\GalaSoft.MvvmLight.WPF4.dll
+C:\Users\dave.wolfe.S-VILLE-ECAD\Documents\ProjectsDev\CG\CG\Center of Gravity\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\dave.wolfe.S-VILLE-ECAD\Documents\ProjectsDev\CG\CG\Center of Gravity\bin\Debug\GalaSoft.MvvmLight.WPF4.xml
+C:\Users\dave.wolfe.S-VILLE-ECAD\Documents\ProjectsDev\CG\CG\Center of Gravity\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.xml
+C:\Users\dave.wolfe.S-VILLE-ECAD\Documents\ProjectsDev\CG\CG\Center of Gravity\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\dave.wolfe.S-VILLE-ECAD\Documents\ProjectsDev\CG\CG\Center of Gravity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dave.wolfe.S-VILLE-ECAD\Documents\ProjectsDev\CG\CG\Center of Gravity\obj\Debug\MainWindow.baml
+C:\Users\dave.wolfe.S-VILLE-ECAD\Documents\ProjectsDev\CG\CG\Center of Gravity\obj\Debug\Skins\MainSkin.baml
+C:\Users\dave.wolfe.S-VILLE-ECAD\Documents\ProjectsDev\CG\CG\Center of Gravity\obj\Debug\MainWindow.g.cs
+C:\Users\dave.wolfe.S-VILLE-ECAD\Documents\ProjectsDev\CG\CG\Center of Gravity\obj\Debug\Center of Gravity_MarkupCompile.cache
+C:\Users\dave.wolfe.S-VILLE-ECAD\Documents\ProjectsDev\CG\CG\Center of Gravity\obj\Debug\Center of Gravity.g.resources
+C:\Users\dave.wolfe.S-VILLE-ECAD\Documents\ProjectsDev\CG\CG\Center of Gravity\obj\Debug\Center_of_Gravity.Properties.Resources.resources
+C:\Users\dave.wolfe.S-VILLE-ECAD\Documents\ProjectsDev\CG\CG\Center of Gravity\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\dave.wolfe.S-VILLE-ECAD\Documents\ProjectsDev\CG\CG\Center of Gravity\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\dave.wolfe.S-VILLE-ECAD\Documents\ProjectsDev\CG\CG\Center of Gravity\obj\Debug\Center of Gravity.dll
+C:\Users\dave.wolfe.S-VILLE-ECAD\Documents\ProjectsDev\CG\CG\Center of Gravity\obj\Debug\Center of Gravity.pdb
